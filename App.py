@@ -150,6 +150,7 @@ if 'current_recommendations' not in st.session_state:
 # Load data
 @st.cache_data
 def load_data():
+    
     movies_df = pd.read_csv('./data/movies.csv')
     ratings_df = pd.read_csv('./data/ratings.csv')
     tags_df = pd.read_csv('./data/tags.csv')

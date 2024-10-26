@@ -7,12 +7,12 @@ from plotly.subplots import make_subplots
 
 # Page config
 st.set_page_config(
-    page_title="Insights Dashboard",
+    page_title="Analytics Dashboard",
     page_icon="🔍",
     layout="wide"
 )
 
-# Custom CSS for insights page
+# Custom CSS for Analytics page
 st.markdown("""
 <style>
     .metric-card {
@@ -182,7 +182,7 @@ def plot_genre_coverage(genre_stats):
     return fig
 
 def main():
-    st.title("Insights Dashboard")
+    st.title("Analytics Dashboard")
     
     # Load data if not in session state
     if 'movies_df' not in st.session_state:
