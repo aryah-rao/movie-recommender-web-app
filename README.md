@@ -7,6 +7,18 @@ A hybrid recommendation engine implementing a advanced deep learning architectur
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.0%2B-orange)](https://streamlit.io/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
+## Table of Contents
+
+1. [Live Application](#live-application)
+2. [System Architecture](#system-architecture)
+3. [Technical Stack](#technical-stack)
+4. [Project Structure](#project-structure)
+5. [Core Features](#core-features)
+6. [Performance Metrics](#performance-metrics)
+7. [Installation and Setup](#installation-and-setup)
+8. [Contributing](#contributing)
+9. [License](#license)
+
 ## 🚀 [Live Application](https://movie-recommender-web-app.streamlit.app)
 
 ## System Architecture
