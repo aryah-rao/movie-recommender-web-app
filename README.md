@@ -20,6 +20,7 @@ A hybrid recommendation engine implementing a advanced deep learning architectur
 9. [License](#license)
 
 ## 🚀 [Live Application](https://movie-recommender-web-app.streamlit.app)
+Note: This application is hosted using Streamlit, and it may go to sleep if not actively used. Please allow a few seconds for the app to wake up and initialize.
 
 ## System Architecture
 
